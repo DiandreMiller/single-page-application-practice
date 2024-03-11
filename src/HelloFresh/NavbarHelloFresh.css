@@ -1,0 +1,42 @@
+body {
+  margin: 0; 
+  padding: 0;
+}
+
+.navBarContainer {
+    display: flex;
+    justify-content: space-around;
+    width: 100vw;
+    background-color: rgb(255, 255, 255);
+    /* border: 2px solid rgb(0, 195, 255); */
+    margin-top: -406px;
+    align-items: center;
+    box-shadow: 0px 2px 4px rgb(225, 76, 57);
+    
+  }
+
+.hello-fresh-logo {
+    height: 68px;
+    transform: translateX(2%);
+}
+
+.discount {
+  color: black;
+  transform: translateX(110%);
+  font-weight: bolder;
+
+}
+
+.button {
+  background-color: rgb(4, 122, 70);
+  /* border: 2px solid red; */
+  font-weight: bolder;
+  border-radius: 4px;
+}
+
+.redeem {
+  padding-left: 5%;
+  padding-right: 5%;
+  height: 48px;
+  transform: translateX(-5%);
+}
