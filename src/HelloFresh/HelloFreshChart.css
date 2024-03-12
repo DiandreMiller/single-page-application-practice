@@ -1,0 +1,35 @@
+.chart-container {
+    display: flex;
+    justify-content: center;
+    background-color: white;
+}
+
+.lifestyle {
+    font-family: 'Ojuju', sans-serif;
+    color: black;
+    font-weight: lighter;
+    font-size: 36px;
+    height: 800px;
+    transform: translateX(80px);
+}
+
+.hello-fresh-logo1 {
+    transform: translateY(80px) translateX(-125px);
+    height: 40px;
+}
+
+.shopping-cart {
+    height: 20px;
+    transform: translateY(60px);
+}
+
+.local-store {
+    color: black;
+    transform: translateY(44px) translateX(60px);
+    font-size: 8px;
+    width: 80px;
+}
+
+.why-hello-fresh {
+    color: black;
+}
