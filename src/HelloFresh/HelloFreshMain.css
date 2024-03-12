@@ -3,7 +3,7 @@
     width: 100vw;
     border: 2px solid yellow;
     height: 600px;
-    transform: translateY();
+    transform: translateY(65px);
 }
 
 .left-container {

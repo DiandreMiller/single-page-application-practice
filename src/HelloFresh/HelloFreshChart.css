@@ -10,12 +10,12 @@
     font-weight: 500;
     font-size: 36px;
     height: 800px;
-    transform: translateX(360px);
+    transform: translateX(360px) translateY(80px);
 }
 
 
 .chart-image {
     width: 45%;
     height: 600px;
-    transform: translateY(100px) translateX(-140px);
+    transform: translateY(180px) translateX(-150px);
 }
