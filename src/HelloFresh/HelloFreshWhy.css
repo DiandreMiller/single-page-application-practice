@@ -20,7 +20,6 @@
 .why-words {
     display: flex;
     gap:240px;
-    /* justify-content: space-between; */
 }
 
 .why-title {
@@ -84,61 +83,3 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-/* 
-#one {
-    transform: translateX(110px) translateY(-322px);
-    width: 160%;
-    border: 2px solid green;
-   
-}
-
-#two {
-    margin-left: -100px;
-    transform: translateX(110px) translateY(-322px);
-    width: 160%;
-    border: 2px solid green;
-}
-
-#three {
-    transform: translateX(-30px) translateY(-322px);
-    width: 200%;
-    border: 2px solid green;
-}
-
-.why-paragraph {
-    color: black;
-    text-align: center;
-    transform: translateX(-100px) translateY(-280px);
-    font-family: sans-serif;
-    font-size: 15px;
-    width: 100%
-}
-
-
-#p1 {
-   transform: translateX(-15px) translateY(-290px);
-   width: 280%;
-   border: 1px solid red;
-}
-
-#p2 {
-     transform: translateX(-30px) translateY(-290px);
-     width: 320%;
-     border: 1px solid red;
-}
-
-#p3 {
-    transform: translateX(-195px) translateY(-290px);
-    width: 320%;
-    border: 1px solid red;
-} */
