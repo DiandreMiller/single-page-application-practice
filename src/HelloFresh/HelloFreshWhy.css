@@ -1,0 +1,83 @@
+.why-section {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    background-color: white;
+    height: 1000px;
+}
+
+.foods {
+    align-self: flex-end;
+    transform: translateY(-420px);
+}
+
+.food-gif {
+    width: 350px;
+    margin-left: 40px;
+    transform: translateY(90px) translateX(-140px);
+}
+
+.why-words {
+    display: flex;
+    gap: 40px;
+}
+
+.why-title {
+    color: black;
+    font-family: 'Ojuju', sans-serif;
+    font-size: 36px;
+    font-weight: 500;
+    transform: translateX(600px) translateY(-350px);
+}
+
+.why-titles {
+    color: black;
+    font-size: 16px;
+    transform: translateY(-320px) translateX(180px);
+    width: 120%;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Ojuju', sans-serif;
+}
+
+#one {
+    transform: translateX(235px) translateY(-322px);
+}
+
+#two {
+    margin-left: -120px;
+    transform: translateX(235px) translateY(-322px);
+}
+
+#three {
+    transform: translateX(90px) translateY(-322px);
+    width: 140%;
+}
+
+.why-paragraph {
+    color: black;
+    text-align: center;
+    transform: translateX(-100px) translateY(-280px);
+    font-family: sans-serif;
+    font-size: 14px;
+    width: 100%
+}
+
+#p1 {
+    width: 120%
+}
+
+#p1 {
+   transform: translateX(-15px) translateY(-290px);
+}
+
+#p2 {
+    
+     transform: translateX(-30px) translateY(-290px);
+    width: 140%;
+}
+
+#p3 {
+    transform: translateX(-195px) translateY(-290px);
+    width: 140%;
+}

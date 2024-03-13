@@ -1,2 +1,12 @@
+.button {
+    background-color: rgb(4, 122, 70);
+    font-weight: bolder;
+    border-radius: 4px;
+  }
+  
+  .button:hover {
+    background-color: rgb(2, 103, 59)
+  }
 
+  
 
