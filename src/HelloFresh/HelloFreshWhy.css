@@ -19,7 +19,8 @@
 
 .why-words {
     display: flex;
-    gap: 40px;
+    gap:240px;
+    /* justify-content: space-between; */
 }
 
 .why-title {
@@ -33,25 +34,85 @@
 .why-titles {
     color: black;
     font-size: 16px;
-    transform: translateY(-320px) translateX(180px);
-    width: 120%;
+    transform: translateY(-320px) translateX(240px);
     display: flex;
     justify-content: space-around;
     font-family: 'Ojuju', sans-serif;
+    flex-wrap: nowrap;
 }
 
-#one {
-    transform: translateX(235px) translateY(-322px);
-}
 
 #two {
-    margin-left: -120px;
-    transform: translateX(235px) translateY(-322px);
+    margin-left: -20px;
 }
 
 #three {
-    transform: translateX(90px) translateY(-322px);
-    width: 140%;
+    margin-left: -40px;
+}
+
+
+.why-paragraph {
+    color: black;
+    text-align: center;
+    transform: translateX(-100px) translateY(-280px);
+    font-family: sans-serif;
+    font-size: 15px;
+    width: 22%;
+    margin-right: 40px
+}
+
+.all-paragraphs {
+    display: flex;
+    margin-top: -70px;
+}
+
+#p1 {
+    margin-left: 300px;
+    
+}
+
+#p2 {
+    margin-left: 40px;
+}
+
+#p3 {
+    margin-left: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+#one {
+    transform: translateX(110px) translateY(-322px);
+    width: 160%;
+    border: 2px solid green;
+   
+}
+
+#two {
+    margin-left: -100px;
+    transform: translateX(110px) translateY(-322px);
+    width: 160%;
+    border: 2px solid green;
+}
+
+#three {
+    transform: translateX(-30px) translateY(-322px);
+    width: 200%;
+    border: 2px solid green;
 }
 
 .why-paragraph {
@@ -59,25 +120,25 @@
     text-align: center;
     transform: translateX(-100px) translateY(-280px);
     font-family: sans-serif;
-    font-size: 14px;
+    font-size: 15px;
     width: 100%
 }
 
-#p1 {
-    width: 120%
-}
 
 #p1 {
    transform: translateX(-15px) translateY(-290px);
+   width: 280%;
+   border: 1px solid red;
 }
 
 #p2 {
-    
      transform: translateX(-30px) translateY(-290px);
-    width: 140%;
+     width: 320%;
+     border: 1px solid red;
 }
 
 #p3 {
     transform: translateX(-195px) translateY(-290px);
-    width: 140%;
-}
+    width: 320%;
+    border: 1px solid red;
+} */
