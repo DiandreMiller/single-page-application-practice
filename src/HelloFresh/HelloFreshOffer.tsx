@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 const HelloFreshOffer = () => {
     return (
-        <div>
+        // <div>
             <section className='offer-container'>
                 <p className='offer-paragraph'>*Offer only valid for new customers with qualifying 
                     auto-renewing subscription purchase. ‘Get 16 Free 
@@ -28,7 +28,7 @@ const HelloFreshOffer = () => {
                     
             </section>
             
-        </div>
+        // </div>
     )
 }
 

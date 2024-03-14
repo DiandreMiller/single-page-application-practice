@@ -1,3 +1,8 @@
+.full-container {
+   height: 400px;
+   background-color: pink;
+}
+
 .dinner-container {
    display: flex;
    justify-content: flex-end;
@@ -10,6 +15,7 @@
    width: 1050px;
    height: 800px;
    transform: translateY(-395px);
+   /* transform: scale(10); */
 }
 
 .decadence {

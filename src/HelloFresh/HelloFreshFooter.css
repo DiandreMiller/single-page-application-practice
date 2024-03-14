@@ -1,8 +1,7 @@
 .footer-container {
     display: flex;
-    background-color: white;
+    background-color: green;
     align-items: center;
-    transform: translateY(-330px);
 }
 
 .copyright {
