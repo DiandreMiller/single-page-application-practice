@@ -1,0 +1,36 @@
+.dinner-container {
+   display: flex;
+   justify-content: flex-end;
+   background-color: rgb(255, 236, 217);
+   overflow: hidden;
+   height: 400px;
+}
+
+.dinner {
+   width: 1050px;
+   height: 800px;
+   transform: translateY(-395px);
+}
+
+.decadence {
+    transform: translateY(-390px);
+    color: black;
+    width: 34%;
+    font-family: 'Ojuju', sans-serif;
+    font-size: 40px;
+    margin-left: 152px;
+}
+
+.buttons {
+    background-color: rgb(4, 122, 70);
+    font-weight: bolder;
+    border-radius: 4px;
+    transform: translateY(-390px) translateX(152px);
+    padding: 15px;
+  }
+  
+  .buttons:hover {
+    background-color: rgb(2, 103, 59);
+  }
+
+  

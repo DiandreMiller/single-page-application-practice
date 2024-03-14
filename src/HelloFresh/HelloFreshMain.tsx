@@ -6,6 +6,7 @@ import chocolateCake from '../assets/image/chocolate-cake.png';
 import HelloFreshChart from './HelloFreshChart';
 import HelloFreshWhy from './HelloFreshWhy';
 import HelloFreshRecipes from './HelloFreshRecipes';
+import HelloFreshDinner from './HelloFreshDinner';
 
 const HelloFreshMain = () => {
     return (
@@ -35,6 +36,7 @@ const HelloFreshMain = () => {
             <HelloFreshChart />
             <HelloFreshWhy />
             <HelloFreshRecipes />
+            <HelloFreshDinner />
         </div>
     );
 };
