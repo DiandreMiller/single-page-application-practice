@@ -5,6 +5,7 @@ import NavbarHelloFresh from './NavbarHelloFresh';
 import chocolateCake from '../assets/image/chocolate-cake.png';
 import HelloFreshChart from './HelloFreshChart';
 import HelloFreshWhy from './HelloFreshWhy';
+import HelloFreshRecipes from './HelloFreshRecipes';
 
 const HelloFreshMain = () => {
     return (
@@ -33,6 +34,7 @@ const HelloFreshMain = () => {
             </main>
             <HelloFreshChart />
             <HelloFreshWhy />
+            <HelloFreshRecipes />
         </div>
     );
 };
