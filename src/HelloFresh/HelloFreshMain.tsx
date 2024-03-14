@@ -7,6 +7,7 @@ import HelloFreshChart from './HelloFreshChart';
 import HelloFreshWhy from './HelloFreshWhy';
 import HelloFreshRecipes from './HelloFreshRecipes';
 import HelloFreshDinner from './HelloFreshDinner';
+import HelloFreshOffer from './HelloFreshOffer';
 
 const HelloFreshMain = () => {
     return (
@@ -37,6 +38,7 @@ const HelloFreshMain = () => {
             <HelloFreshWhy />
             <HelloFreshRecipes />
             <HelloFreshDinner />
+            <HelloFreshOffer />
         </div>
     );
 };
