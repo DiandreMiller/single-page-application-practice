@@ -13,7 +13,7 @@ function App() {
       <BrowserRouter>
       
           <Routes>
-            <Route element={<HelloFreshHome />} path='/hello-fresh'/>
+            <Route element={<HelloFreshHome />} path='/'/>
             
             {/* <Route element={<DataDogNavbar /> }path='/data-dog' /> */}
             
