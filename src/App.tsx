@@ -1,6 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import HelloFreshHome from './HelloFresh/HelloFreshHome';
-import DataDogNavbar from './DataDog/DataDogNavbar'
+// import DataDogNavbar from './DataDog/DataDogNavbar'
 
 
 import './App.css'
