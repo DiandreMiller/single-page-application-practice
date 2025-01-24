@@ -1,0 +1,16 @@
+.footer-container {
+    display: flex;
+    /* background-color: green; */
+    align-items: center;
+}
+
+.copyright {
+    height: 10px;
+    margin-left: 10%;
+}
+
+.diandre {
+    color: black;
+    margin-left: 4px;
+    font-weight: bolder;
+}

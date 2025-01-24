@@ -8,5 +8,9 @@
     background-color: rgb(2, 103, 59)
   }
 
-  
+  body {
+    /* background-color: green; */
+    margin: 0; 
+    padding: 0;
+  }
 

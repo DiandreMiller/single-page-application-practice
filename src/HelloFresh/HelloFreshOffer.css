@@ -1,0 +1,32 @@
+.offer-container {
+    background-color: white;
+    color: grey;
+    /* transform: translateY(-314px); */
+    /* margin-top: -614px; */
+    font-size: 14.2px;
+    /* height: 200px; */
+    
+}
+
+.offer-paragraph {
+    width: 80%;
+    margin-left: 10%;
+    /* transform: translateY(30px); */
+}
+
+hr {
+    /* transform: translateY(30px); */
+    width: 99%;
+    border: none;
+    border-bottom: 1px solid grey;
+}
+
+.link {
+    color: grey;
+    text-decoration-line: underline;
+}
+
+
+.link:hover {
+    color: grey;
+}

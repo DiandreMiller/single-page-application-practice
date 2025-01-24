@@ -1,15 +1,12 @@
 import './HelloFreshMain.css';
 import '../App.css';
 import './NavbarHelloFresh';
-import NavbarHelloFresh from './NavbarHelloFresh';
 import chocolateCake from '../assets/image/chocolate-cake.png';
-import HelloFreshChart from './HelloFreshChart';
-import HelloFreshWhy from './HelloFreshWhy';
+
 
 const HelloFreshMain = () => {
     return (
         <div>
-            <NavbarHelloFresh />
             <main className="main-container">
                 <span className="left-container">
                     <h3 className='treats'>Treats on Repeat</h3>
@@ -31,8 +28,6 @@ const HelloFreshMain = () => {
                     </span>
                 </span>
             </main>
-            <HelloFreshChart />
-            <HelloFreshWhy />
         </div>
     );
 };

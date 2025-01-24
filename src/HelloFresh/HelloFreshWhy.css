@@ -3,7 +3,7 @@
     justify-content: center;
     flex-direction: column;
     background-color: white;
-    height: 1000px;
+    height: 500px;
 }
 
 .foods {
@@ -19,7 +19,7 @@
 
 .why-words {
     display: flex;
-    gap: 40px;
+    gap:240px;
 }
 
 .why-title {
@@ -28,56 +28,60 @@
     font-size: 36px;
     font-weight: 500;
     transform: translateX(600px) translateY(-350px);
+    margin-top: 550px
 }
 
 .why-titles {
     color: black;
     font-size: 16px;
-    transform: translateY(-320px) translateX(180px);
-    width: 120%;
+    transform: translateY(-320px) translateX(240px);
     display: flex;
     justify-content: space-around;
     font-family: 'Ojuju', sans-serif;
+    flex-wrap: nowrap;
 }
 
-#one {
-    transform: translateX(235px) translateY(-322px);
-}
 
 #two {
-    margin-left: -120px;
-    transform: translateX(235px) translateY(-322px);
+    margin-left: -20px;
 }
 
 #three {
-    transform: translateX(90px) translateY(-322px);
-    width: 140%;
+    margin-left: -40px;
 }
+
 
 .why-paragraph {
     color: black;
     text-align: center;
     transform: translateX(-100px) translateY(-280px);
     font-family: sans-serif;
-    font-size: 14px;
-    width: 100%
+    font-size: 15px;
+    width: 22%;
+    margin-right: 40px
+}
+
+.all-paragraphs {
+    display: flex;
+    margin-top: -70px;
+
 }
 
 #p1 {
-    width: 120%
-}
-
-#p1 {
-   transform: translateX(-15px) translateY(-290px);
+    margin-left: 300px;
+    
 }
 
 #p2 {
-    
-     transform: translateX(-30px) translateY(-290px);
-    width: 140%;
+    margin-left: 40px;
 }
 
 #p3 {
-    transform: translateX(-195px) translateY(-290px);
-    width: 140%;
+    margin-left: 60px;
 }
+
+
+
+
+
+
